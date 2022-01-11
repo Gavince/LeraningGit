@@ -150,3 +150,5 @@ cython_debug/
 /File2/
 File3/
 !/File4/
+!File6/
+!/File6/
