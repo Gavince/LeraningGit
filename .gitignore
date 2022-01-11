@@ -147,5 +147,6 @@ dmypy.json
 cython_debug/
 
 /File1
-/File2
+/File2/
 File3/
+!/File4/
