@@ -145,6 +145,6 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
-!File6/*
+!File6/*/*
 
 !/File6/
